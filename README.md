@@ -10,3 +10,6 @@ Usage: `vectorisepdffont.sh <file.pdf>`
 #Installation of dependences
 ##Gentoo
     sudo emerge app-text/pdftk media-gfx/pdf2svg media-gfx/inkscape dev-perl/rename
+
+##Debian
+    sudo aptitude install inkscape pdf2svg pdftk rename
